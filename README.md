@@ -1,3 +1,5 @@
+[![MasterHead](./SWASTIKDHAR.gif)]
+
 <h1 align="center">Hi 👋, I'm Swastik</h1>
 <h3 align="center">A passionate Web Developer and Machine Learning enthusiast from India</h3>
 
